@@ -1,13 +1,13 @@
 {
   "name": "mongodb",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "engines": {
     "node": "14.x"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
@@ -19,5 +19,15 @@
     "mongodb": "^5.1.0",
     "morgan": "^1.10.0",
     "nodemon": "^2.0.20"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poncmu/myproj.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/poncmu/myproj/issues"
+  },
+  "homepage": "https://github.com/poncmu/myproj#readme",
+  "description": ""
 }
