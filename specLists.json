@@ -1,0 +1,44 @@
+[
+  {
+    "_id": {
+      "$oid": "63f87fa485692d4042fd67d9"
+    },
+    "specTitle": "undefined"
+  },
+  {
+    "_id": {
+      "$oid": "63f87fe785692d4042fd67da"
+    },
+    "specTitle": "Data Scientist & Machine Learning"
+  },
+  {
+    "_id": {
+      "$oid": "63f87ff285692d4042fd67db"
+    },
+    "specTitle": "Embedded System and IoT"
+  },
+  {
+    "_id": {
+      "$oid": "63f87ffc85692d4042fd67dc"
+    },
+    "specTitle": "Computer Network"
+  },
+  {
+    "_id": {
+      "$oid": "63f8800585692d4042fd67dd"
+    },
+    "specTitle": "Cybersecurity"
+  },
+  {
+    "_id": {
+      "$oid": "64119a3eb789f3cfd23414ba"
+    },
+    "specTitle": "Web App"
+  },
+  {
+    "_id": {
+      "$oid": "64119a4ab789f3cfd23414bb"
+    },
+    "specTitle": "Web App"
+  }
+]
